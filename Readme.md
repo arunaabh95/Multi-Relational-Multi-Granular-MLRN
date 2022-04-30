@@ -4,8 +4,8 @@ This project focuses on solving the I-RAVEN matrices. We generated the dataset f
 
 ## Previous Works
 Our works mainly focuses on these 2 papers.
-[MLRN](https://arxiv.org/abs/2003.11608)
-[M2RN](https://link.springer.com/article/10.1007/s13042-021-01484-5)
+* [MLRN](https://arxiv.org/abs/2003.11608)
+* [M2RN](https://link.springer.com/article/10.1007/s13042-021-01484-5)
 
 ## Execution 
 Just run the jupyter notebook after you have downloaded the dataset. To Understand the type of combinations we create as input to the relational layer you can check out the code that is commented under
